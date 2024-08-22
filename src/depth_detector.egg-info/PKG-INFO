@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: depth-detector
+Version: 0.0.1
+Summary: This is a python packege for detecting depth from images.
+Home-page: https://github.com/Manish-A-04/depth-detector
+Author: Manish-A-04
+Author-email: manishprofessional04@gmail.com
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+#DEPTH DETECTOR
